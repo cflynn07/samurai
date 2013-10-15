@@ -1,0 +1,3 @@
+[submodule "cookbooks/aws"]
+	path = cookbooks/aws
+	url = https://github.com/cflynn07/aws.git
